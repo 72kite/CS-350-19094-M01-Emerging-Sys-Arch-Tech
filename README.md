@@ -50,7 +50,7 @@ I am particularly proud of the integration between the data layer and the user i
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [[https://github.com/your-username/inventory-pro.git](https://github.com/your-username/inventory-pro.git](https://github.com/72kite/CS-350-19094-M01-Emerging-Sys-Arch-Tech)
+    git clone [(https://github.com/72kite/CS-350-19094-M01-Emerging-Sys-Arch-Tech)
     ```
 2.  **Open in Android Studio:**
     Ensure you have the latest version of Android Studio and the Android SDK installed.
